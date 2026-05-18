@@ -1,0 +1,33 @@
+2026-05-19 00:48:12.470 +07:00 [INF] 🐝 BeeSIS API starting on .NET 10...
+2026-05-19 00:48:56.361 +07:00 [INF] 🐝 BeeSIS API starting on .NET 10...
+2026-05-19 00:49:30.597 +07:00 [INF] HTTP GET /health responded 200 in 36.9142 ms
+2026-05-19 00:49:37.729 +07:00 [INF] Fetching CSV from GitHub: https://raw.githubusercontent.com/vtniscoding/beeSIS/main/Data/users.csv
+2026-05-19 00:49:38.273 +07:00 [WRN] GitHub unavailable (Response status code does not indicate success: 404 (Not Found).). Falling back to local file: users.csv
+2026-05-19 00:49:38.274 +07:00 [WRN] Local CSV file not found: D:\beesis\Backend\BeeSIS.API\Data\users.csv
+2026-05-19 00:49:38.274 +07:00 [WRN] Login failed: user 'admin' not found
+2026-05-19 00:49:38.285 +07:00 [INF] HTTP POST /api/auth/login responded 401 in 606.3104 ms
+2026-05-19 00:49:47.798 +07:00 [INF] Fetching CSV from GitHub: https://raw.githubusercontent.com/vtniscoding/beeSIS/main/Data/users.csv
+2026-05-19 00:49:47.846 +07:00 [WRN] GitHub unavailable (Response status code does not indicate success: 404 (Not Found).). Falling back to local file: users.csv
+2026-05-19 00:49:47.846 +07:00 [WRN] Local CSV file not found: D:\beesis\Backend\BeeSIS.API\Data\users.csv
+2026-05-19 00:49:47.846 +07:00 [WRN] Login failed: user 'admin' not found
+2026-05-19 00:49:47.846 +07:00 [INF] HTTP POST /api/auth/login responded 401 in 58.4324 ms
+2026-05-19 00:49:54.336 +07:00 [INF] Fetching CSV from GitHub: https://raw.githubusercontent.com/vtniscoding/beeSIS/main/Data/users.csv
+2026-05-19 00:49:54.379 +07:00 [WRN] GitHub unavailable (Response status code does not indicate success: 404 (Not Found).). Falling back to local file: users.csv
+2026-05-19 00:49:54.379 +07:00 [WRN] Local CSV file not found: D:\beesis\Backend\BeeSIS.API\Data\users.csv
+2026-05-19 00:49:54.379 +07:00 [WRN] Login failed: user 'admin' not found
+2026-05-19 00:49:54.379 +07:00 [INF] HTTP POST /api/auth/login responded 401 in 45.5528 ms
+2026-05-19 00:50:38.508 +07:00 [INF] 🐝 BeeSIS API starting on .NET 10...
+2026-05-19 00:51:03.986 +07:00 [INF] Fetching CSV from GitHub: https://raw.githubusercontent.com/vtniscoding/beeSIS/main/Data/users.csv
+2026-05-19 00:51:04.481 +07:00 [WRN] GitHub unavailable (Response status code does not indicate success: 404 (Not Found).). Falling back to local file: users.csv
+2026-05-19 00:51:04.695 +07:00 [INF] User 'admin' logged in successfully with role 'Admin'
+2026-05-19 00:51:04.711 +07:00 [INF] HTTP POST /api/auth/login responded 200 in 816.9202 ms
+2026-05-19 00:51:13.728 +07:00 [INF] Fetching CSV from GitHub: https://raw.githubusercontent.com/vtniscoding/beeSIS/main/Data/users.csv
+2026-05-19 00:51:13.788 +07:00 [WRN] GitHub unavailable (Response status code does not indicate success: 404 (Not Found).). Falling back to local file: users.csv
+2026-05-19 00:51:13.984 +07:00 [INF] User 'admin' logged in successfully with role 'Admin'
+2026-05-19 00:51:13.985 +07:00 [INF] HTTP POST /api/auth/login responded 200 in 262.7795 ms
+2026-05-19 00:51:14.054 +07:00 [INF] Fetching all students
+2026-05-19 00:51:14.055 +07:00 [INF] Fetching CSV from GitHub: https://raw.githubusercontent.com/vtniscoding/beeSIS/main/Data/students.csv
+2026-05-19 00:51:14.382 +07:00 [WRN] GitHub unavailable (Response status code does not indicate success: 404 (Not Found).). Falling back to local file: students.csv
+2026-05-19 00:51:14.390 +07:00 [INF] HTTP GET /api/students responded 200 in 382.6547 ms
+2026-05-19 00:54:50.431 +07:00 [INF] HTTP GET /health responded 200 in 10.2608 ms
+2026-05-19 00:54:50.470 +07:00 [INF] HTTP GET /favicon.ico responded 404 in 0.3331 ms

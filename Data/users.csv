@@ -1,0 +1,4 @@
+Id,Username,Email,PasswordHash,Role,CreatedDate,Status
+U001,admin,admin@beesis.edu,$2a$11$GTMhMzaHfPBdf2kWbb1z/.0R8/arR76ES4KtzurclPC23sc0zv0ay,Admin,2024-01-01,Active
+U002,student1,john.doe@university.edu,$2a$11$DDvK2n2gU9MFM6VeuMFJEew.W6MmAyutNYy5Ztbr1T3if6Ndjyvfi,Student,2024-01-01,Active
+U003,faculty1,dr.smith@beesis.edu,$2a$11$Tn8pGw8VWTQ7eN4cG1Xdse.LhleuZyPXXDD1xn18Z1yg2mlDaNWra,Faculty,2024-01-01,Active

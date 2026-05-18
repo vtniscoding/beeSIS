@@ -1,0 +1,6 @@
+Id,FirstName,LastName,Email,Phone,DateOfBirth,Address,Major,EnrollmentDate,GPA,Status
+S001,John,Doe,john.doe@university.edu,0123456789,1999-05-15,123 Main St,Computer Science,2023-09-01,3.5,Active
+S002,Jane,Smith,jane.smith@university.edu,0987654321,2000-03-20,456 Oak Ave,Business Administration,2023-09-01,3.8,Active
+S003,Michael,Johnson,m.johnson@university.edu,0112233445,2001-07-10,789 Pine Rd,Computer Science,2024-01-15,3.2,Active
+S004,Emily,Davis,e.davis@university.edu,0556677889,2000-11-25,321 Elm St,Mathematics,2023-09-01,3.9,Active
+S005,David,Wilson,d.wilson@university.edu,0998877665,1999-02-14,654 Maple Dr,Business Administration,2024-01-15,2.8,Active

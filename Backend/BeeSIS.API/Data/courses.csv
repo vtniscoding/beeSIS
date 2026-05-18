@@ -1,0 +1,8 @@
+CourseCode,CourseName,Credits,Instructor,Department,Semester,Status
+CS101,Introduction to Programming,3,Dr. Smith,Computer Science,Fall2024,Active
+CS201,Data Structures and Algorithms,3,Dr. Johnson,Computer Science,Fall2024,Active
+CS301,Software Engineering,3,Dr. Lee,Computer Science,Spring2025,Active
+BA101,Business Fundamentals,3,Prof. Williams,Business,Fall2024,Active
+BA201,Marketing Principles,3,Prof. Brown,Business,Spring2025,Active
+MATH101,Calculus I,4,Dr. Chen,Mathematics,Fall2024,Active
+MATH201,Linear Algebra,3,Dr. Garcia,Mathematics,Spring2025,Active

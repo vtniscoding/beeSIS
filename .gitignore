@@ -1,0 +1,22 @@
+# .NET Core
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code / Visual Studio
+.vscode/
+.vs/
+
+
+# React/Node
+node_modules/
+dist/
+.env
+.env.local
+.DS_Store
+
+# Temporary files
+HashGen/
